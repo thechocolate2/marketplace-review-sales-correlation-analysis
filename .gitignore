@@ -1,0 +1,10 @@
+# Raw & cleaned data (regenerate by re-running the notebook)
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
